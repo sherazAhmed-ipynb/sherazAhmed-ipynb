@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Sheraz Ahmed</h1>
-- 🔭 I’m currently perusing my degree in Computer Science from University of Gujrat.
+- 🔭 I have completed my Bachelor's degree in Computer Science from the University of Gujrat.
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning and Data Visualization.**
 
