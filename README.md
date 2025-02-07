@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Sheraz Ahmed ipynb</h1>
+<h1 align="center">Hi there👋, I'm Sheraz Ahmed</h1>
 - 🔭 I have completed my Bachelor's degree in Computer Science from the University of Gujrat.
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning and Data Visualization.**
