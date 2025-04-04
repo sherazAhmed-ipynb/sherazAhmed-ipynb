@@ -1,9 +1,9 @@
 <h1 align="center">Hi there👋, I'm Sheraz Ahmed</h1>
 - 🔭 I have completed my Bachelor's degree in Computer Science from the University of Gujrat.
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning and Data Visualization.**
+- 🌱 I’m currently learning **Natural Language Processing (NLP), Large Language Models (LLMs), Machine Learning, and Deep Learning.**
 
-- 💬 Ask me about **Java, Python, PyQT6,C++ for Arduino.**
+- 💬 Ask me about **Machine Learning, Deep Learning, NLP, LLMs, and Data Science.**
 
 - 📫 How to reach me **SherazAhmed3912@gmail.com**
 
